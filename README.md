@@ -1,0 +1,1 @@
+# Symfony7.0.5-php8.2-MySQL-docker
